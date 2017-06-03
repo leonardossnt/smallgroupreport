@@ -1,6 +1,7 @@
 var person = {
 	name: "Leonardo Sequeira Santana",
 	birth: '06/08/1989',
+	picture: 'image.jpg',
 	contacts: [
 		{phone: '98198-5543', op: 'TIM', wpp: true}, 
 		{phone: '99155-2554', op: 'Vivo'}
